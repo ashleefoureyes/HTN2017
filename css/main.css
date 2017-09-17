@@ -1,5 +1,5 @@
 body {
-  background-color: #f2f2f2;
+  background-color: #c5dbd6;
   font-family: 'Catamaran', sans-serif;
   font-weight: 300;
   font-size: 16px;
@@ -42,7 +42,7 @@ bwq {
 
 
 a {
-  color: #1CBCAD;
+  color: #9ffccf;
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -54,7 +54,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #7b7b7b;
+  color: #9ffccf;
   text-decoration: none;
   outline: 0;
 }
@@ -80,7 +80,7 @@ a:after {
 
 .header {
   background: #1CBCAD;
-  background: url(../images/af_may.jpg) no-repeat center top;
+  background: url(../images/ban.jpeg) no-repeat center top;
   filter: grayscale(100%);
   padding-top:70px;
   text-align:center;
@@ -212,7 +212,7 @@ img.resize {
 }
 
 .navbar-custom .navbar-toggle {
-  background-color: ##313135;
+  background-color: #313135;
   border-color: ##313135;
   font-family: 'Catamaran', sans-serif;
   text-transform: uppercase;
@@ -222,7 +222,7 @@ img.resize {
 
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #d1c068;
+  color: #8cd8b4;
   outline: none;
 }
 
